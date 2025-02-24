@@ -1,2 +1,2 @@
 # DSA
-ALL DSA TEMPLATES
+This repository contains all dsa templates
